@@ -1,0 +1,4 @@
+Collect all county level employment data by industry (and total) into one csv file from census.gov.  
+Collect the SOI data (statistics of income) from the IRS.gov from 2010 to 2017. 
+Merge wage & SOI. 
+Run a regression on the wage data using the soi data as an instrument to define a "treatment group". 
